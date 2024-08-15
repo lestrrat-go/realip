@@ -1,3 +1,3 @@
-module github.com/natureglobal/realip
+module github.com/lestrrat-go/realip
 
-go 1.14
+go 1.22.6
